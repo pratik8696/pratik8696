@@ -19,9 +19,9 @@
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/pratik8696?tab=repositories)
 
 - 👀 Apart from this i love to design and i'm into robotics too.
-(https://www.linkedin.com/in/pratik-anand-/) 
 
-- 📫 How to reach me **mepratikanand@gmail.com**
+
+- 📫 How to reach me on [LinkedIN](https://www.linkedin.com/in/pratik-anand-/) and [Email](mepratikanand@gmail.com)
 
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
