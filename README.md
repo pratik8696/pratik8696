@@ -20,9 +20,6 @@
 
 - 👀 Apart from this i love to design and i'm into robotics too.
 
-
-- 📫 How to reach me on [LinkedIN](https://www.linkedin.com/in/pratik-anand-/) and [Email](mepratikanand@gmail.com)
-
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
 
