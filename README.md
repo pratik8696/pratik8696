@@ -10,7 +10,7 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on <strong>ReactJs</strong>
+- 🔭 I’m currently working on various <strong>Authentication Methods</strong>
 
 - 🌱 I’m currently learning **Web Development**
 
