@@ -10,11 +10,11 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on various <strong>Authentication Methods</strong>
+- 🔭 I’m currently working on <strong>ReactJS</strong>
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤔 My recently completed project is [Blogging_Website](https://github.com/pratik8696/Blogging_WebSite)
+- 🤔 My recently completed project is [Authentication_PassportJS](https://github.com/pratik8696/Authentication_PassportJS)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/pratik8696?tab=repositories)
 
