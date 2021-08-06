@@ -10,7 +10,7 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently working on <strong>ReactJS</strong>
+- 🔭 I’m currently working on a Full Stack <strong>Ecommerce Web App</strong>
 
 - 🌱 I’m currently learning **Web Development**
 
