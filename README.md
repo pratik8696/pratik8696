@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a Full Stack <strong>Ecommerce Web App</strong>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **NextJS**
 
 - 🤔 My recently completed project is [Authentication_PassportJS](https://github.com/pratik8696/Authentication_PassportJS)
 
