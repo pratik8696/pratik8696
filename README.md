@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratik Anand 😎</h1>
 <h3 align="center">Budding Web Developer 💻 || Junior in EE at NIT Patna 👨‍🎓 || Aspiring SDE🖋</h3>
 
-<p align="center">Hello there this is Pratik Anand a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
+<p align="center" >Hello there this is Pratik Anand a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik8696" alt="pratik8696" /> </p>
 <br>
