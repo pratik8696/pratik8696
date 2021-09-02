@@ -66,6 +66,11 @@
 <br/>
 <br/>
 
+<h1 align="center"> 🎯 My Activities</h1>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
+
+
+
 ### 📫 How to reach me?
 If you would like to discuss something interesting, you can join me on LinkedIn. You can also ask me anything 😉.
 
