@@ -66,9 +66,10 @@
 <br/>
 <br/>
 
-<h1 align="center"> 🎯 My Activities</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FirdausJawed&theme=onedark" alt="FirdausJawed" /></a> </p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pratik8696&theme=onedark" alt="pratik8696" /></a> </p>
+<br/>
+<br/>
 
 
 ### 📫 How to reach me?
