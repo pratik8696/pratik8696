@@ -68,6 +68,7 @@
 
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pratik8696&theme=onedark" alt="pratik8696" /></a> </p>
+
 <br/>
 <br/>
 
