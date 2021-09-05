@@ -5,7 +5,7 @@
 
 <p align="center" >Hello there this is Pratik Anand a sophomere at NIT Patna. I am an aspring web developer and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik8696" alt="pratik8696" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=pratik8696" alt="pratik8696" /> </p>
 <br>
 
 # Overview About Me:-
