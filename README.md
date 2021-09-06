@@ -44,13 +44,7 @@
   </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/> </a>
-      
-      
-      
-       
-       
-       
-      
+  
   
 </p>
 <br/>
@@ -68,8 +62,6 @@
   <a href="https://github.com/pratik8696/github-readme-stats"><img alt="Pratik8696 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik8696&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
   <br/>
 
-<br/>
-<br/>
 
 <a href="https://github.com/pratik8696/github-readme-activity-graph"><img alt="pratik8696 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratik8696&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
