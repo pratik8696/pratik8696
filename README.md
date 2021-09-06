@@ -7,8 +7,7 @@
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=pratik8696" alt="pratik8696" /> </p>
 <br>
-
-# Overview About Me:-
+<h1 align="center">🧾 Overview About Me:-</h1>
 
 - 🔭 I’m currently working on a Full Stack <strong>Ecommerce Web App</strong>
 
@@ -23,9 +22,9 @@
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
 
-## 🚀 Languages and Tools:
+<h1 align="center"> 🚀 Languages and Tools:</h1>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
      <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
@@ -62,7 +61,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<h1 align="center">📊 My Github Stats</h1>
 
   <br/>
     <a href="https://github.com/pratik8696/github-readme-stats"><img alt="pratik8696 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -84,7 +83,7 @@
 <br/>
 
 
-### 📫 How to reach me?
+<h1 align="center">📫 How to reach me?</h1>
 If you would like to discuss something interesting, you can join me on LinkedIn. You can also ask me anything 😉.
 
 <p><a href="https://github.com/pratik8696" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pratik-anand-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
