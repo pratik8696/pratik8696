@@ -64,8 +64,8 @@
 <h1 align="center">📊 My Github Stats</h1>
 
   <br/>
-    <a href="https://github.com/pratik8696/github-readme-stats"><img alt="pratik8696 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pratik8696/github-readme-stats"><img alt="Pratik8696 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik8696&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <p align="center" > <a href="https://github.com/pratik8696/github-readme-stats"><img alt="pratik8696 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pratik8696/github-readme-stats"><img alt="Pratik8696 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik8696&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
   <br/>
 
 <br/>
@@ -84,9 +84,9 @@
 
 
 <h1 align="center">📫 How to reach me?</h1>
-If you would like to discuss something interesting, you can join me on LinkedIn. You can also ask me anything 😉.
+ <p align="center" >If you would like to discuss something interesting, you can join me on LinkedIn. You can also ask me anything 😉.</p>
 
-<p><a href="https://github.com/pratik8696" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pratik-anand-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center" ><a href="https://github.com/pratik8696" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pratik-anand-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 
 <br>
