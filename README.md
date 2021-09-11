@@ -1,4 +1,4 @@
-<a href="#"><p align="center" ><img width="300px" height="300px" src="/—Pngtree—masked cyber hacker computer_6566761.png" height="175px"/></p></a>
+<a href="#"><p align="center"> <img width="300px" height="300px" src="/—Pngtree—masked cyber hacker computer_6566761.png" height="175px"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratik Anand 😎</h1>
 <h3 align="center">Budding Web Developer 💻 || Sophomore at NIT Patna 👨‍🎓 || Aspiring SDE🖋</h3>
