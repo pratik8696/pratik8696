@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 🤔 My recently completed project is [ExpenseManager](https://github.com/pratik8696/ExpenseManager)
+- 🤔 My recently completed project is [MeetupApp](https://github.com/pratik8696/MeetupApp)
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/pratik8696?tab=repositories)
 
