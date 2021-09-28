@@ -9,9 +9,9 @@
 <br>
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on a Full Stack <strong>Ecommerce Web App</strong>
+- 🔭 I’m currently working on improving my <strong>C++ Skills.</strong>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **DSA**
 
 - 🤔 My recently completed project is [MeetupApp](https://github.com/pratik8696/MeetupApp)
 
