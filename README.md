@@ -59,7 +59,7 @@
 
 
   <br/>
-   <p align="center" > <a href="https://github.com/pratik8696/github-readme-stats"><img alt="pratik8696 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <p align="center" ><a href="https://github.com/pratik8696/github-readme-stats"><img alt="pratik8696 Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratik8696&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pratik8696/github-readme-stats"><img alt="Pratik8696 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik8696&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
 
 
