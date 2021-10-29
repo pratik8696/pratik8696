@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on improving my <strong>C++ Skills.</strong>
+- 🔭 I’m currently working on <strong>divide and conquer</strong>
 
 - 🌱 I’m currently learning **DSA**
 
