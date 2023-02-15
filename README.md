@@ -13,15 +13,11 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤔 My recently completed project is [MeetupApp](https://github.com/pratik8696/MeetupApp)
-
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/pratik8696?tab=repositories)
-
 - 👀 Apart from this i love to design and i'm into robotics too.
 
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
-
+<!-- 
 <h1 align="center"> 🚀 Languages and Tools:</h1>
 
 <p align="center"> 
@@ -44,7 +40,7 @@
   </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/> </a>
-  
+   -->
   
 </p>
 <br/>
